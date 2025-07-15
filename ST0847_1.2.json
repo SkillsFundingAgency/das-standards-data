@@ -10,7 +10,7 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.2",
   "change": "Occupational standard and end point assessment plan revised.",
-  "changedDate": "2025-06-19T00:00:00",
+  "changedDate": "2025-07-14T00:00:00",
   "earliestStartDate": "2025-06-19T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
@@ -305,12 +305,12 @@
   "greenJobTitles": [],
   "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
-  "pathway": "Engineering, Manufacturing, Process and Control",
-  "cluster": "Quality Improvement and Project Control Manager",
+  "pathway": "Engineering, manufacturing, process and control",
+  "cluster": "Quality improvement and project control manager",
   "clusterId": "258",
   "clusterDescription": "Maintain and improve the integrity and quality of complex products and processes, improve whole production and process technologies, and the overall health and safety of the working environment",
   "createdDate": "2025-06-19T09:04:08 +00:00",
-  "lastUpdated": "2025-06-19T00:00:00 +00:00",
+  "lastUpdated": "2025-07-14T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2020-08-24T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0847",
@@ -1095,5 +1095,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2025-06-19T00:00:00"
+  "publishDate": "2025-07-14T00:00:00"
 }
