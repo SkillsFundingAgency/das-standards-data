@@ -8,6 +8,7 @@
   "url": "https://skillsengland.education.gov.uk/api/foundationapprenticeships/FA0007 ",
   "route": "Health and science",
   "relatedRoutes": [
+    "Care services",
     "Health and science"
   ],
   "typicalDuration": 8,
@@ -20,7 +21,7 @@
   "version": "1.0",
   "versionNumber": "1.0",
   "createdDate": "2025-06-30T09:26:43 +00:00",
-  "lastUpdated": "2025-08-05T08:16:39 +00:00",
+  "lastUpdated": "2025-08-07T14:30:59 +00:00",
   "publishDate": "2025-08-01T00:00:00 +00:00",
   "approvedForDelivery": "2025-04-29T00:00:00 +00:00",
   "earliestStartDate": "2025-08-01T00:00:00 +00:00",
@@ -35,9 +36,14 @@
   "ssa1": "1 Health, Public Services and Care",
   "ssa2": "1.3 Health and social care",
   "keywords": [
-    "health",
     "care",
+    "adult care",
     "healthcare",
+    "health care",
+    "care sector",
+    "social care",
+    "Elderly",
+    "health",
     "medicine",
     "support",
     "therapy",
@@ -47,11 +53,23 @@
     "hcsw"
   ],
   "typicalJobTitles": [
+    "Adult care worker",
+    "Adult carer",
+    "Care assistant",
+    "Care worker",
+    "Carer",
+    "Home care support worker",
+    "Key worker in day services",
+    "Key worker in domiciliary services",
+    "Key worker in residential settings",
+    "Learning disability support worker",
+    "Personal assistant",
+    "Relief  team worker",
+    "Support worker - supported living",
     "Healthcare Support Worker",
     "Healthcare Assistant",
     "Mental Health Support Worker",
     "Nursing Assistant",
-    "Personal Assistant",
     "Support Worker"
   ],
   "greenJobTitles": [],
@@ -243,6 +261,10 @@
   ],
   "informationForProviders": "<p>Coverage of each knowledge and skill statement must include each and every occupation it is mapped to, unless expressly stated otherwise. For instance, if skill S1 is mapped to occupation 1 and occupation 2, then the range of coverage must include elements of both 1 and 2 so the apprentice benefits from a broad experience. Competence is to the level described by this Foundation Apprenticeship’s knowledge and skills and not the often higher level of the mapped occupations. Coverage will be a blend of on and off the job learning. Please refer to the <a href=\"/media/015di4so/health-and-social-care-foundation-apprenticeship_knowledge-and-skills-coverage-document.pdf\" title=\"Health And Social Care Foundation Apprenticeship Knowledge And Skills Coverage Document\">Knowledge and skills coverage document</a>.</p>",
   "relatedOccupations": [
+    {
+      "name": "Adult care worker",
+      "reference": "OCC0005"
+    },
     {
       "name": "Healthcare support worker",
       "reference": "OCC0216"
