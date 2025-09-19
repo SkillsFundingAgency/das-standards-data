@@ -429,10 +429,10 @@
   "greenJobTitles": [],
   "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
-  "pathway": "Engineering, Manufacturing, Process and Control",
+  "pathway": "Engineering, manufacturing, process and control",
   "cluster": "Quality improvement and project control technician",
   "clusterId": "256",
-  "clusterDescription": null,
+  "clusterDescription": "Maintain and improve product and process integrity and quality, production and process efficiency, and the overall health and safety of the working environment",
   "createdDate": "2025-08-15T12:30:55 +00:00",
   "lastUpdated": "2025-08-15T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2025-08-15T00:00:00 +00:00",
@@ -1289,17 +1289,17 @@
     {
       "optionId": "a520ec0b-7006-4334-8cb3-961ca671073e",
       "title": "aerospace technical support technician",
-      "occupationCode": "OCC1313"
+      "occupationCode": "OCC1313C"
     },
     {
       "optionId": "94768fc9-32a0-40cd-b77b-c0e61f87ecf0",
       "title": "aerospace fitting technician",
-      "occupationCode": ""
+      "occupationCode": "OCC1313A"
     },
     {
       "optionId": "fc79762d-024f-4d2f-bd17-85c34bd45ad5",
       "title": "aerospace machining technician",
-      "occupationCode": ""
+      "occupationCode": "OCC1313B"
     }
   ],
   "regulationDetail": [],
