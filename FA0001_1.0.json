@@ -6,12 +6,12 @@
   "larsCode": "805",
   "learningAimClassCode": "Z0001844",
   "foundationApprenticeshipUrl": "https://skillsengland.education.gov.uk/foundation-apprenticeships/FA0001",
-  "url": "https://skillsengland.education.gov.uk/api/foundationapprenticeships/FA0001",
   "route": "Construction and the built environment",
   "relatedRoutes": [
     "Construction and the built environment"
   ],
   "typicalDuration": 8,
+  "minimumHoursForCompliance": 0,
   "maxFunding": 4000,
   "level": 2,
   "overviewOfRole": "Building Service Engineer (BSE) relates to low carbon heating, refrigeration air conditioning and heat pump engineering and plumbing. ",
@@ -86,134 +86,522 @@
     {
       "id": "43eb9034-f141-4ce6-81bd-901774848106",
       "detail": "Employee responsibilities under health, safety and welfare regulations relevant to the role.*",
-      "tags": []
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Low carbon heating technician",
+          "reference": "ST1020",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st1020-v1-1",
+          "versionNumber": "1.1",
+          "relatedKsbs": [
+            "K1"
+          ]
+        }
+      ]
     },
     {
       "id": "fa357a64-3b47-41f5-9a81-922437f800d4",
       "detail": "Sustainability principles and practices relevant to the role, including waste disposal and the impact of BSE occupations on the environment.*",
-      "tags": []
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Low carbon heating technician",
+          "reference": "ST1020",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st1020-v1-1",
+          "versionNumber": "1.1",
+          "relatedKsbs": [
+            "K2",
+            "K10"
+          ]
+        },
+        {
+          "title": "Refrigeration air conditioning and heat pump engineering technician",
+          "reference": "ST0322",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0322-v1-2",
+          "versionNumber": "1.2",
+          "relatedKsbs": [
+            "K3"
+          ]
+        }
+      ]
     },
     {
       "id": "654f010a-efd0-40b7-81b7-126acc3653d4",
       "detail": "Types, use and storage of personal protective equipment (PPE).",
-      "tags": []
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Refrigeration air conditioning and heat pump engineering technician",
+          "reference": "ST0322",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0322-v1-2",
+          "versionNumber": "1.2",
+          "relatedKsbs": [
+            "K21"
+          ]
+        }
+      ]
     },
     {
       "id": "9178d73e-f566-4aae-ac97-9b53e81541f8",
       "detail": "Role of building service systems in making the building work for the user including air quality, heating and cooling, acoustics, fire prevention and control.",
-      "tags": []
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Plumbing and domestic heating technician",
+          "reference": "ST0303",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0303-v1-1",
+          "versionNumber": "1.1",
+          "relatedKsbs": [
+            "K1"
+          ]
+        }
+      ]
     },
     {
       "id": "43237c2c-ddc7-4452-bd72-ae58aac44e35",
       "detail": "Industry standards and regulations relevant to the role including fire safety and Building Safety Act and how they interact.* ",
-      "tags": []
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Refrigeration air conditioning and heat pump engineering technician",
+          "reference": "ST0322",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0322-v1-2",
+          "versionNumber": "1.2",
+          "relatedKsbs": [
+            "K3"
+          ]
+        }
+      ]
     },
     {
       "id": "464f0b68-a864-4445-a51e-9f9aa5c62424",
       "detail": "Roles and responsibilities of an employee and other relevant stakeholders and personnel in the workplace.",
-      "tags": []
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Plumbing and domestic heating technician",
+          "reference": "ST0303",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0303-v1-1",
+          "versionNumber": "1.1",
+          "relatedKsbs": [
+            "K5"
+          ]
+        }
+      ]
     },
     {
       "id": "1e8b1d9b-7ff9-4008-91d5-780f10d7a356",
       "detail": "Use and characteristics of materials and components associated with the BSE occupations.",
-      "tags": []
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Refrigeration air conditioning and heat pump engineering technician",
+          "reference": "ST0322",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0322-v1-2",
+          "versionNumber": "1.2",
+          "relatedKsbs": [
+            "K8"
+          ]
+        },
+        {
+          "title": "Plumbing and domestic heating technician",
+          "reference": "ST0303",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0303-v1-1",
+          "versionNumber": "1.1",
+          "relatedKsbs": [
+            "K10",
+            "K11",
+            "K12",
+            "K13",
+            "K17"
+          ]
+        }
+      ]
     },
     {
       "id": "1d59cc26-62a0-4870-aed7-318b3d2d6ad7",
       "detail": "Types, use and storage techniques of tools and equipment associated with BSE occupations.",
-      "tags": []
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Refrigeration air conditioning and heat pump engineering technician",
+          "reference": "ST0322",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0322-v1-2",
+          "versionNumber": "1.2",
+          "relatedKsbs": [
+            "K21"
+          ]
+        }
+      ]
     },
     {
       "id": "1ab46152-9290-45b7-a3a1-43432f46e1ff",
       "detail": "Basic functions of electrical and electronic control of BSE systems including electrical safety and when to engage a competent person.",
-      "tags": []
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Plumbing and domestic heating technician",
+          "reference": "ST0303",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0303-v1-1",
+          "versionNumber": "1.1",
+          "relatedKsbs": [
+            "K13",
+            "K18"
+          ]
+        }
+      ]
     },
     {
       "id": "2345ba85-c135-4300-87b2-54df2abb8e3f",
       "detail": "Work area preparation and maintenance techniques.",
-      "tags": []
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Plumbing and domestic heating technician",
+          "reference": "ST0303",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0303-v1-1",
+          "versionNumber": "1.1",
+          "relatedKsbs": [
+            "K7"
+          ]
+        }
+      ]
     },
     {
       "id": "1a2f597d-f329-484b-a170-7d7930d90181",
       "detail": "Techniques to carry out simple tasks associated with BSE occupations.",
-      "tags": []
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Low carbon heating technician",
+          "reference": "ST1020",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st1020-v1-1",
+          "versionNumber": "1.1",
+          "relatedKsbs": [
+            "K3",
+            "K11",
+            "K12",
+            "K13",
+            "K16",
+            "K18"
+          ]
+        },
+        {
+          "title": "Refrigeration air conditioning and heat pump engineering technician",
+          "reference": "ST0322",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0322-v1-2",
+          "versionNumber": "1.2",
+          "relatedKsbs": [
+            "K6",
+            "K11",
+            "K12"
+          ]
+        },
+        {
+          "title": "Plumbing and domestic heating technician",
+          "reference": "ST0303",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0303-v1-1",
+          "versionNumber": "1.1",
+          "relatedKsbs": [
+            "K2",
+            "K3",
+            "K19",
+            "K27",
+            "K28"
+          ]
+        }
+      ]
     },
     {
       "id": "212abd55-4730-4873-87d1-da62163b3bf5",
       "detail": "Methods of protecting materials and work in progress from damage, weather and theft.",
-      "tags": []
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Refrigeration air conditioning and heat pump engineering technician",
+          "reference": "ST0322",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0322-v1-2",
+          "versionNumber": "1.2",
+          "relatedKsbs": [
+            "K3",
+            "K29"
+          ]
+        }
+      ]
     },
     {
       "id": "f4ce45d7-cedb-4958-a53c-3e04ac7ec699",
       "detail": "Techniques to carry out simple BSE system functioning checks.*",
-      "tags": []
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Refrigeration air conditioning and heat pump engineering technician",
+          "reference": "ST0322",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0322-v1-2",
+          "versionNumber": "1.2",
+          "relatedKsbs": [
+            "K13",
+            "K14",
+            "K16"
+          ]
+        },
+        {
+          "title": "Plumbing and domestic heating technician",
+          "reference": "ST0303",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0303-v1-1",
+          "versionNumber": "1.1",
+          "relatedKsbs": [
+            "K2",
+            "K3"
+          ]
+        }
+      ]
     },
     {
       "id": "bd364cb3-d372-4162-8240-c8379e8ba2f1",
       "detail": "The importance of customer service to their organisation.",
-      "tags": []
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Refrigeration air conditioning and heat pump engineering technician",
+          "reference": "ST0322",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0322-v1-2",
+          "versionNumber": "1.2",
+          "relatedKsbs": [
+            "K23"
+          ]
+        },
+        {
+          "title": "Plumbing and domestic heating technician",
+          "reference": "ST0303",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0303-v1-1",
+          "versionNumber": "1.1",
+          "relatedKsbs": [
+            "K7"
+          ]
+        }
+      ]
     },
     {
       "id": "a0692401-fbf9-4830-a99a-f79da2bcb07c",
       "detail": "Awareness of equity, inclusion and diversity regulations.* ",
-      "tags": []
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Refrigeration air conditioning and heat pump engineering technician",
+          "reference": "ST0322",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0322-v1-2",
+          "versionNumber": "1.2",
+          "relatedKsbs": [
+            "K25"
+          ]
+        }
+      ]
     },
     {
       "id": "9afdaa64-4107-4c99-b407-0463dd4bb714",
       "detail": "Mental and physical health considerations in self and others when working in construction and the importance of reporting issues.",
-      "tags": []
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Refrigeration air conditioning and heat pump engineering technician",
+          "reference": "ST0322",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0322-v1-2",
+          "versionNumber": "1.2",
+          "relatedKsbs": [
+            "K24"
+          ]
+        }
+      ]
     }
   ],
   "technicalSkills": [
     {
       "id": "546ab818-65e1-4a76-9bf6-5b3af97aae93",
       "detail": "Comply with employee responsibilities under health, safety and welfare regulations.*",
-      "tags": []
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Low carbon heating technician",
+          "reference": "ST1020",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st1020-v1-1",
+          "versionNumber": "1.1",
+          "relatedKsbs": [
+            "S1"
+          ]
+        },
+        {
+          "title": "Refrigeration air conditioning and heat pump engineering technician",
+          "reference": "ST0322",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0322-v1-2",
+          "versionNumber": "1.2",
+          "relatedKsbs": [
+            "S1"
+          ]
+        },
+        {
+          "title": "Plumbing and domestic heating technician",
+          "reference": "ST0303",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0303-v1-1",
+          "versionNumber": "1.1",
+          "relatedKsbs": [
+            "S1"
+          ]
+        }
+      ]
     },
     {
       "id": "32209789-7879-4532-a7ff-eb451cec4880",
       "detail": "Use and store appropriate PPE.",
-      "tags": []
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Low carbon heating technician",
+          "reference": "ST1020",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st1020-v1-1",
+          "versionNumber": "1.1",
+          "relatedKsbs": [
+            "S1"
+          ]
+        }
+      ]
     },
     {
       "id": "9262edcf-6ffe-4f81-86fd-c20f83b3a692",
       "detail": "Follow written and verbal work instructions.*",
-      "tags": []
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Low carbon heating technician",
+          "reference": "ST1020",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st1020-v1-1",
+          "versionNumber": "1.1",
+          "relatedKsbs": [
+            "S14"
+          ]
+        },
+        {
+          "title": "Refrigeration air conditioning and heat pump engineering technician",
+          "reference": "ST0322",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0322-v1-2",
+          "versionNumber": "1.2",
+          "relatedKsbs": [
+            "S16"
+          ]
+        }
+      ]
     },
     {
       "id": "a92ff7be-5ca5-45a0-8513-360f8c8edf48",
       "detail": "Apply techniques to carry out simple tasks associated with BSE occupations.",
-      "tags": []
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Plumbing and domestic heating technician",
+          "reference": "ST0303",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0303-v1-1",
+          "versionNumber": "1.1",
+          "relatedKsbs": [
+            "S4"
+          ]
+        }
+      ]
     },
     {
       "id": "11b1ea32-d9f4-4908-9fba-c268f58546c5",
       "detail": "Protect work in progress and materials, for example, from damage, weather or theft.",
-      "tags": []
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Plumbing and domestic heating technician",
+          "reference": "ST0303",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0303-v1-1",
+          "versionNumber": "1.1",
+          "relatedKsbs": [
+            "S1"
+          ]
+        }
+      ]
     },
     {
       "id": "86bc0d37-ebcd-4b34-9162-ae05614ab0bb",
       "detail": " Apply techniques to carry out simple BSE system checks.",
-      "tags": []
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Plumbing and domestic heating technician",
+          "reference": "ST0303",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0303-v1-1",
+          "versionNumber": "1.1",
+          "relatedKsbs": [
+            "S2"
+          ]
+        }
+      ]
     },
     {
       "id": "781234fd-8446-4ee6-aeed-8788b0ab6a90",
       "detail": "Use materials and components associated with BSE occupations.",
-      "tags": []
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Plumbing and domestic heating technician",
+          "reference": "ST0303",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0303-v1-1",
+          "versionNumber": "1.1",
+          "relatedKsbs": [
+            "S8"
+          ]
+        }
+      ]
     },
     {
       "id": "9f1b55be-32fb-4ad1-8cc0-394f456f99cd",
       "detail": "Use and store tools and equipment associated with the occupations.",
-      "tags": []
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Refrigeration air conditioning and heat pump engineering technician",
+          "reference": "ST0322",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0322-v1-2",
+          "versionNumber": "1.2",
+          "relatedKsbs": [
+            "S15"
+          ]
+        }
+      ]
     },
     {
       "id": "6dd955cf-0f4e-42b3-ba30-1fb8efdb6137",
       "detail": "Prepare and maintain the work area.",
-      "tags": []
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Low carbon heating technician",
+          "reference": "ST1020",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st1020-v1-1",
+          "versionNumber": "1.1",
+          "relatedKsbs": [
+            "S10"
+          ]
+        }
+      ]
     },
     {
       "id": "8c214e37-275a-47f2-a10c-710abedafd9a",
       "detail": "Dispose of waste safely and sustainably. Segregate resources for reuse and recycling.",
-      "tags": []
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Refrigeration air conditioning and heat pump engineering technician",
+          "reference": "ST0322",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0322-v1-2",
+          "versionNumber": "1.2",
+          "relatedKsbs": [
+            "S2"
+          ]
+        }
+      ]
     }
   ],
   "employabilitySkillsAndBehaviours": [
@@ -263,26 +651,31 @@
     {
       "name": "Low carbon heating technician",
       "reference": "OCC1020",
+      "occupationalMapUrl": "https://occupational-maps.skillsengland.education.gov.uk/maps/occupation/OCC1020",
       "versionNumber": "1.1"
     },
     {
       "name": "Refrigeration air conditioning and heat pump engineering technician",
       "reference": "OCC0322",
+      "occupationalMapUrl": "https://occupational-maps.skillsengland.education.gov.uk/maps/occupation/OCC0322",
       "versionNumber": "1.2"
     },
     {
       "name": "Plumbing and domestic heating technician - Non-domestic plumbing technician",
       "reference": "OCC0303G",
+      "occupationalMapUrl": "https://occupational-maps.skillsengland.education.gov.uk/maps/occupation/OCC0303G",
       "versionNumber": "1.1"
     },
     {
       "name": "Plumbing and domestic heating technician - Domestic air source heat pumps & solar thermal systems technician",
       "reference": "OCC0303E",
+      "occupationalMapUrl": "https://occupational-maps.skillsengland.education.gov.uk/maps/occupation/OCC0303E",
       "versionNumber": "1.1"
     },
     {
       "name": "Plumbing and domestic heating technician - Domestic gas fired hot water heating appliances technician",
       "reference": "OCC0303F",
+      "occupationalMapUrl": "https://occupational-maps.skillsengland.education.gov.uk/maps/occupation/OCC0303F",
       "versionNumber": "1.1"
     }
   ],
