@@ -6,12 +6,12 @@
   "larsCode": "809",
   "learningAimClassCode": "Z0001846",
   "foundationApprenticeshipUrl": "https://skillsengland.education.gov.uk/foundation-apprenticeships/FA0005",
-  "url": "https://skillsengland.education.gov.uk/api/foundationapprenticeships/FA0005",
   "route": "Digital",
   "relatedRoutes": [
     "Digital"
   ],
   "typicalDuration": 8,
+  "minimumHoursForCompliance": 0,
   "maxFunding": 4000,
   "level": 2,
   "overviewOfRole": "Software and data operatives are found in organisations large and small in all sectors and within public, private and voluntary organisations. ",
@@ -148,154 +148,510 @@
     {
       "id": "f833fcff-b48a-4eec-9a1e-72c0f964056d",
       "detail": "Health, safety and security including organisational policies and procedures.*",
-      "tags": []
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "IT solutions technician",
+          "reference": "ST0505",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0505-v1-1",
+          "versionNumber": "1.1",
+          "relatedKsbs": [
+            "K20"
+          ]
+        }
+      ]
     },
     {
       "id": "8af8f542-09a4-4c81-bede-0d62773413ee",
       "detail": "Digital systems, infrastructure, networks, software packages and programmes.*",
-      "tags": []
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Information communications technician",
+          "reference": "ST0973",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0973-v1-0",
+          "versionNumber": "1.2",
+          "relatedKsbs": [
+            "K10"
+          ]
+        }
+      ]
     },
     {
       "id": "57a4bc54-8b49-43cd-87f8-7a225b3ebcb8",
       "detail": "Roles and responsibilities of stakeholders.",
-      "tags": []
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Software development technician",
+          "reference": "ST0128",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0128-v1-1",
+          "versionNumber": "1.1",
+          "relatedKsbs": [
+            "K2"
+          ]
+        },
+        {
+          "title": "Cyber security technician",
+          "reference": "ST0865",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0865-v1-0",
+          "versionNumber": "1.0",
+          "relatedKsbs": [
+            "K30"
+          ]
+        }
+      ]
     },
     {
       "id": "d2318152-a983-42af-bd06-999341927551",
       "detail": "Own role and responsibilities and how they help to achieve the needs of the organisation.",
-      "tags": []
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Software development technician",
+          "reference": "ST0128",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0128-v1-1",
+          "versionNumber": "1.1",
+          "relatedKsbs": [
+            "K2"
+          ]
+        }
+      ]
     },
     {
       "id": "00f522b2-b9ab-46f8-b9a8-f0b136978276",
       "detail": "Documentation and systems.*",
-      "tags": []
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Information communications technician",
+          "reference": "ST0973",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0973-v1-0",
+          "versionNumber": "1.2",
+          "relatedKsbs": [
+            "K2"
+          ]
+        }
+      ]
     },
     {
       "id": "86be45d3-b05a-4ba0-9946-b0dccbd20980",
       "detail": "Essential cyber security compliance including phishing and scams.",
-      "tags": []
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "IT solutions technician",
+          "reference": "ST0505",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0505-v1-1",
+          "versionNumber": "1.1",
+          "relatedKsbs": [
+            "K19"
+          ]
+        }
+      ]
     },
     {
       "id": "a5f43feb-97d6-479a-a391-29386e148b85",
       "detail": "Function and operation of the stages within the solutions life cycle.*",
-      "tags": []
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Software development technician",
+          "reference": "ST0128",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0128-v1-1",
+          "versionNumber": "1.1",
+          "relatedKsbs": [
+            "K1"
+          ]
+        }
+      ]
     },
     {
       "id": "577308bf-32e1-4320-a125-14750bc0d6ed",
       "detail": "User requirements, needs and priorities.",
-      "tags": []
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Software development technician",
+          "reference": "ST0128",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0128-v1-1",
+          "versionNumber": "1.1",
+          "relatedKsbs": [
+            "K1"
+          ]
+        }
+      ]
     },
     {
       "id": "20c87972-4037-405a-a950-0525dc94057a",
       "detail": "Essential solution architecture and testing.*",
-      "tags": []
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Software development technician",
+          "reference": "ST0128",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0128-v1-1",
+          "versionNumber": "1.1",
+          "relatedKsbs": [
+            "K1"
+          ]
+        },
+        {
+          "title": "IT solutions technician",
+          "reference": "ST0505",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0505-v1-1",
+          "versionNumber": "1.1",
+          "relatedKsbs": [
+            "K4"
+          ]
+        }
+      ]
     },
     {
       "id": "47ce965f-434c-47d1-bf2d-ceb435cb5635",
       "detail": "Emerging technologies: automation or AI in the sector and or occupation.*",
-      "tags": []
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Software development technician",
+          "reference": "ST0128",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0128-v1-1",
+          "versionNumber": "1.1",
+          "relatedKsbs": [
+            "K17"
+          ]
+        }
+      ]
     },
     {
       "id": "37a4203b-3a7d-4fb6-ad26-428aaa217855",
       "detail": "Identify types and sources of data.*",
-      "tags": []
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Data technician",
+          "reference": "ST0795",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0795-v1-0",
+          "versionNumber": "1.0",
+          "relatedKsbs": [
+            "K1"
+          ]
+        },
+        {
+          "title": "Digital support technician",
+          "reference": "ST0120",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0120-v1-1",
+          "versionNumber": "1.1",
+          "relatedKsbs": [
+            "K5"
+          ]
+        }
+      ]
     },
     {
       "id": "da315858-1593-498b-9ae8-fa2fa81a4e14",
       "detail": "Essentials of safely storing and retrieving data.*",
-      "tags": []
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Data technician",
+          "reference": "ST0795",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0795-v1-0",
+          "versionNumber": "1.0",
+          "relatedKsbs": [
+            "K1"
+          ]
+        },
+        {
+          "title": "Digital support technician",
+          "reference": "ST0120",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0120-v1-1",
+          "versionNumber": "1.1",
+          "relatedKsbs": [
+            "K5"
+          ]
+        }
+      ]
     },
     {
       "id": "481d27d0-509a-43a8-9363-b4c83f0fe787",
       "detail": "Principles of data extraction, validations, formatting, collating and anonymising.*",
-      "tags": []
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Data technician",
+          "reference": "ST0795",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0795-v1-0",
+          "versionNumber": "1.0",
+          "relatedKsbs": [
+            "K3"
+          ]
+        }
+      ]
     },
     {
       "id": "7b13225a-a9ca-408d-93c1-39455eba5bf8",
       "detail": "Fundamentals of data presentation.*",
-      "tags": []
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Data technician",
+          "reference": "ST0795",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0795-v1-0",
+          "versionNumber": "1.0",
+          "relatedKsbs": [
+            "K4"
+          ]
+        },
+        {
+          "title": "Software development technician",
+          "reference": "ST0128",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0128-v1-1",
+          "versionNumber": "1.1",
+          "relatedKsbs": [
+            "K23"
+          ]
+        }
+      ]
     },
     {
       "id": "82e9c975-7f49-45c4-bb22-f4e9dbcbfae4",
       "detail": "Essentials of the software development cycle and how it connects with the user experience.*",
-      "tags": []
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Software development technician",
+          "reference": "ST0128",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0128-v1-1",
+          "versionNumber": "1.1",
+          "relatedKsbs": [
+            "K1"
+          ]
+        }
+      ]
     },
     {
       "id": "0fae2852-ca9b-4b33-b6b1-564c3a94dc58",
       "detail": "Software testing frameworks.*",
-      "tags": []
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Software development technician",
+          "reference": "ST0128",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0128-v1-1",
+          "versionNumber": "1.1",
+          "relatedKsbs": [
+            "K13"
+          ]
+        }
+      ]
     },
     {
       "id": "f03affdd-9781-4285-9c4d-0debe0e23827",
       "detail": "IT security vulnerabilities.*",
-      "tags": []
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Cyber security technician",
+          "reference": "ST0865",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0865-v1-0",
+          "versionNumber": "1.0",
+          "relatedKsbs": [
+            "K1"
+          ]
+        }
+      ]
     }
   ],
   "technicalSkills": [
     {
       "id": "b6d79f56-06b6-4a61-8068-ad103058b91c",
       "detail": "Comply with health and safety and security requirements.",
-      "tags": []
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Software development technician",
+          "reference": "ST0128",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0128-v1-1",
+          "versionNumber": "1.1",
+          "relatedKsbs": [
+            "S12"
+          ]
+        }
+      ]
     },
     {
       "id": "57e59d9e-cd04-4fed-93c1-ee22ac35ef0d",
       "detail": "Use of infrastructure, networks, software, packages or programmes.*",
-      "tags": []
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "IT solutions technician",
+          "reference": "ST0505",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0505-v1-1",
+          "versionNumber": "1.1",
+          "relatedKsbs": [
+            "S8"
+          ]
+        }
+      ]
     },
     {
       "id": "1f4bda4e-f4fb-4e94-83bb-b490ec0dda85",
       "detail": "Apply knowledge of solutions to resolve issues and support users knowing when and who to escalate to.*",
-      "tags": []
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Information communications technician",
+          "reference": "ST0973",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0973-v1-0",
+          "versionNumber": "1.2",
+          "relatedKsbs": [
+            "S15"
+          ]
+        }
+      ]
     },
     {
       "id": "48b2dfb3-cb6c-445d-9e59-8bf110b767a5",
       "detail": "Test performance and usability.*",
-      "tags": []
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Information communications technician",
+          "reference": "ST0973",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0973-v1-0",
+          "versionNumber": "1.2",
+          "relatedKsbs": [
+            "S14",
+            "S21"
+          ]
+        }
+      ]
     },
     {
       "id": "b72361a2-4fc2-445b-afcc-e9d4b4f1a69f",
       "detail": "Apply sustainability practices in their role.",
-      "tags": []
+      "tags": [],
+      "relatedApprenticeships": []
     },
     {
       "id": "40c8e0d3-aed1-4782-b9e5-7e8539790f42",
       "detail": "Maintain documentation, systems and follow organisational process and procedures.*",
-      "tags": []
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Information communications technician",
+          "reference": "ST0973",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0973-v1-0",
+          "versionNumber": "1.2",
+          "relatedKsbs": [
+            "S8"
+          ]
+        }
+      ]
     },
     {
       "id": "e2145bf1-2c9a-45f7-80f1-e394f7d24ae3",
       "detail": "Use digital technologies to support daily work activities.*",
-      "tags": []
+      "tags": [],
+      "relatedApprenticeships": []
     },
     {
       "id": "f3add5d0-6444-4a1f-bece-6fcdecc0f08a",
       "detail": "Safe and ethical use of emerging technologies.*",
-      "tags": []
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Information communications technician",
+          "reference": "ST0973",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0973-v1-0",
+          "versionNumber": "1.2",
+          "relatedKsbs": [
+            "S4"
+          ]
+        }
+      ]
     },
     {
       "id": "2cdc48ac-c447-4c15-a119-c5871614ad34",
       "detail": "Format, present and save data.*",
-      "tags": []
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Data technician",
+          "reference": "ST0795",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0795-v1-0",
+          "versionNumber": "1.0",
+          "relatedKsbs": [
+            "S4"
+          ]
+        }
+      ]
     },
     {
       "id": "d906ac89-c0b2-42e3-a4a6-64033bd44873",
       "detail": "Support to store, retrieve and communicate data.*",
-      "tags": []
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Data technician",
+          "reference": "ST0795",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0795-v1-0",
+          "versionNumber": "1.0",
+          "relatedKsbs": [
+            "S12"
+          ]
+        }
+      ]
     },
     {
       "id": "3ff86fb2-5eca-42b0-98fc-296692dd47f2",
       "detail": "Review data sets to ensure accuracy.*",
-      "tags": []
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Data technician",
+          "reference": "ST0795",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0795-v1-0",
+          "versionNumber": "1.0",
+          "relatedKsbs": [
+            "S8"
+          ]
+        }
+      ]
     },
     {
       "id": "b84403df-97bc-40ec-96b3-bffdc3062eb0",
       "detail": "Write or source simple code for software requirements.*",
-      "tags": []
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Software development technician",
+          "reference": "ST0128",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0128-v1-1",
+          "versionNumber": "1.1",
+          "relatedKsbs": [
+            "S1"
+          ]
+        }
+      ]
     },
     {
       "id": "b430a077-91a9-4f19-bfed-41277f611f2e",
       "detail": "Test simple code.*",
-      "tags": []
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Software development technician",
+          "reference": "ST0128",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0128-v1-1",
+          "versionNumber": "1.1",
+          "relatedKsbs": [
+            "S5"
+          ]
+        }
+      ]
     }
   ],
   "employabilitySkillsAndBehaviours": [
@@ -345,46 +701,55 @@
     {
       "name": "Data technician",
       "reference": "OCC0795",
+      "occupationalMapUrl": "https://occupational-maps.skillsengland.education.gov.uk/maps/occupation/OCC0795",
       "versionNumber": "1.0"
     },
     {
       "name": "Software development technician",
       "reference": "OCC0128",
+      "occupationalMapUrl": "https://occupational-maps.skillsengland.education.gov.uk/maps/occupation/OCC0128",
       "versionNumber": "1.1"
     },
     {
       "name": "IT solutions technician",
       "reference": "OCC0505",
+      "occupationalMapUrl": "https://occupational-maps.skillsengland.education.gov.uk/maps/occupation/OCC0505",
       "versionNumber": "1.1"
     },
     {
       "name": "Digital support technician - Digital Applications Technician (DAT) ",
       "reference": "OCC0120A",
+      "occupationalMapUrl": "https://occupational-maps.skillsengland.education.gov.uk/maps/occupation/OCC0120A",
       "versionNumber": "1.1"
     },
     {
       "name": "Digital support technician - Digital Service Technician (DST) ",
       "reference": "OCC0120B",
+      "occupationalMapUrl": "https://occupational-maps.skillsengland.education.gov.uk/maps/occupation/OCC0120B",
       "versionNumber": "1.1"
     },
     {
       "name": "Cyber security technician",
       "reference": "OCC0865",
+      "occupationalMapUrl": "https://occupational-maps.skillsengland.education.gov.uk/maps/occupation/OCC0865",
       "versionNumber": "1.0"
     },
     {
       "name": "Information communications technician - Digital Communications Technician",
       "reference": "OCC0973A",
+      "occupationalMapUrl": "https://occupational-maps.skillsengland.education.gov.uk/maps/occupation/OCC0973A",
       "versionNumber": "1.2"
     },
     {
       "name": "Information communications technician - Network Technician",
       "reference": "OCC0973B",
+      "occupationalMapUrl": "https://occupational-maps.skillsengland.education.gov.uk/maps/occupation/OCC0973B",
       "versionNumber": "1.2"
     },
     {
       "name": "Information communications technician - Support Technician",
       "reference": "OCC0973C",
+      "occupationalMapUrl": "https://occupational-maps.skillsengland.education.gov.uk/maps/occupation/OCC0973C",
       "versionNumber": "1.2"
     }
   ],
