@@ -6,13 +6,13 @@
   "larsCode": "811",
   "learningAimClassCode": "Z0001831",
   "foundationApprenticeshipUrl": "https://skillsengland.education.gov.uk/foundation-apprenticeships/FA0007",
-  "url": "https://skillsengland.education.gov.uk/api/foundationapprenticeships/FA0007",
   "route": "Health and science",
   "relatedRoutes": [
     "Care services",
     "Health and science"
   ],
   "typicalDuration": 8,
+  "minimumHoursForCompliance": 0,
   "maxFunding": 3000,
   "level": 2,
   "overviewOfRole": "Health and care support assistants work in a range of health and care settings, for example in a care home, hospital, General Practice, as part of community team and in individuals’ homes where their wider team may include workers from both health and social care. ",
@@ -93,129 +93,464 @@
     {
       "id": "66c6390d-04f2-4861-8334-b55b895341a9",
       "detail": "Introduction to the health and social care sectors, and how the sectors link together. ",
-      "tags": []
+      "tags": [],
+      "relatedApprenticeships": []
     },
     {
       "id": "c5992c88-657a-4d09-8314-1b816faa128c",
       "detail": "Career progression opportunities.* ",
-      "tags": []
+      "tags": [],
+      "relatedApprenticeships": []
     },
     {
       "id": "fe83c760-0380-41cc-9a73-725cfe1e6d50",
       "detail": "The importance of equality, diversity and inclusion and human rights.",
-      "tags": []
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Adult care worker",
+          "reference": "ST0005",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0005-in-revision",
+          "versionNumber": "1.4",
+          "relatedKsbs": [
+            "K3"
+          ]
+        },
+        {
+          "title": "Healthcare support worker",
+          "reference": "ST0216",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0216-v1-1",
+          "versionNumber": "1.1",
+          "relatedKsbs": [
+            "K3"
+          ]
+        }
+      ]
     },
     {
       "id": "3bc457d8-6b78-436e-8ea1-ea68ca8e17c8",
       "detail": "Fundamental principles of a duty of care.",
-      "tags": []
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Adult care worker",
+          "reference": "ST0005",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0005-in-revision",
+          "versionNumber": "1.4",
+          "relatedKsbs": [
+            "K4"
+          ]
+        },
+        {
+          "title": "Healthcare support worker",
+          "reference": "ST0216",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0216-v1-1",
+          "versionNumber": "1.1",
+          "relatedKsbs": [
+            "K4"
+          ]
+        }
+      ]
     },
     {
       "id": "93ccde6d-13ff-4e4c-8bd8-bb7bad1e4251",
       "detail": "Fundamental principles of adult safeguarding and how to report a safeguarding concern.",
-      "tags": []
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Adult care worker",
+          "reference": "ST0005",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0005-in-revision",
+          "versionNumber": "1.4",
+          "relatedKsbs": [
+            "K5"
+          ]
+        },
+        {
+          "title": "Healthcare support worker",
+          "reference": "ST0216",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0216-v1-1",
+          "versionNumber": "1.1",
+          "relatedKsbs": [
+            "K4"
+          ]
+        }
+      ]
     },
     {
       "id": "1a06695b-1002-4db8-8a46-f15ce7cba40c",
       "detail": "Fundamental person centred values to maximise an individual’s independence.*",
-      "tags": []
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Adult care worker",
+          "reference": "ST0005",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0005-in-revision",
+          "versionNumber": "1.4",
+          "relatedKsbs": [
+            "K7"
+          ]
+        },
+        {
+          "title": "Healthcare support worker",
+          "reference": "ST0216",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0216-v1-1",
+          "versionNumber": "1.1",
+          "relatedKsbs": [
+            "K3",
+            "K11"
+          ]
+        }
+      ]
     },
     {
       "id": "fdef80c4-6929-4cc1-af09-198e8b481b60",
       "detail": "Fundamental mental health, physical health and emotional wellbeing needs that individuals may have.",
-      "tags": []
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Adult care worker",
+          "reference": "ST0005",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0005-in-revision",
+          "versionNumber": "1.4",
+          "relatedKsbs": [
+            "K11",
+            "K13"
+          ]
+        },
+        {
+          "title": "Healthcare support worker",
+          "reference": "ST0216",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0216-v1-1",
+          "versionNumber": "1.1",
+          "relatedKsbs": [
+            "K16"
+          ]
+        }
+      ]
     },
     {
       "id": "462c96cd-4e3e-4fb8-a028-490652a06438",
       "detail": "Fundamental principles of infection prevention and control.*",
-      "tags": []
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Healthcare support worker",
+          "reference": "ST0216",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0216-v1-1",
+          "versionNumber": "1.1",
+          "relatedKsbs": [
+            "K20"
+          ]
+        }
+      ]
     },
     {
       "id": "13f0bee7-c274-4cc7-a286-0cbf74122c3c",
       "detail": "Developments in digital working and professional boundaries when using technology.* ",
-      "tags": []
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Adult care worker",
+          "reference": "ST0005",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0005-in-revision",
+          "versionNumber": "1.4",
+          "relatedKsbs": [
+            "K17"
+          ]
+        },
+        {
+          "title": "Healthcare support worker",
+          "reference": "ST0216",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0216-v1-1",
+          "versionNumber": "1.1",
+          "relatedKsbs": [
+            "K18"
+          ]
+        }
+      ]
     },
     {
       "id": "10429588-e870-4155-bba9-1c00614a1d21",
       "detail": "Fundamental principles of health promotion and illness prevention to support positive lifestyle choices.*",
-      "tags": []
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Adult care worker",
+          "reference": "ST0005",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0005-in-revision",
+          "versionNumber": "1.4",
+          "relatedKsbs": [
+            "K9"
+          ]
+        },
+        {
+          "title": "Healthcare support worker",
+          "reference": "ST0216",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0216-v1-1",
+          "versionNumber": "1.1",
+          "relatedKsbs": [
+            "K17"
+          ]
+        }
+      ]
     },
     {
       "id": "26a37bb9-ee44-48a6-9028-7559beca0c8b",
       "detail": "Basic food hygiene and preparation methods.*",
-      "tags": []
+      "tags": [],
+      "relatedApprenticeships": []
     },
     {
       "id": "00062a0e-d8e9-40a9-b5ac-3392b6c62890",
       "detail": "Common health conditions and routine interventions and knowing when and to whom to escalate for action.",
-      "tags": []
+      "tags": [],
+      "relatedApprenticeships": []
     },
     {
       "id": "07e8f360-83c2-4b49-bb7e-329578b4de53",
       "detail": "Techniques and sources of support to help develop personal resilience when working in a health or social care setting.",
-      "tags": []
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Adult care worker",
+          "reference": "ST0005",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0005-in-revision",
+          "versionNumber": "1.4",
+          "relatedKsbs": [
+            "K15"
+          ]
+        }
+      ]
     },
     {
       "id": "70e8dcf3-fd79-4476-bfda-ef76eee7fc5e",
       "detail": "Principles of safe moving and handling of equipment and other objects and assistance of individuals.",
-      "tags": []
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Healthcare support worker",
+          "reference": "ST0216",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0216-v1-1",
+          "versionNumber": "1.1",
+          "relatedKsbs": [
+            "K21"
+          ]
+        }
+      ]
     }
   ],
   "technicalSkills": [
     {
       "id": "f5794aca-c71f-49d5-902b-a4f087ebffe2",
       "detail": "Explore career progression opportunities within the health and social care sectors.*",
-      "tags": []
+      "tags": [],
+      "relatedApprenticeships": []
     },
     {
       "id": "8118d31d-30d0-422b-bc29-d14d7c96c7f0",
       "detail": "Act in the best interest of individuals to ensure they do not come to harm.",
-      "tags": []
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Adult care worker",
+          "reference": "ST0005",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0005-in-revision",
+          "versionNumber": "1.4",
+          "relatedKsbs": [
+            "S4"
+          ]
+        },
+        {
+          "title": "Healthcare support worker",
+          "reference": "ST0216",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0216-v1-1",
+          "versionNumber": "1.1",
+          "relatedKsbs": [
+            "S4"
+          ]
+        }
+      ]
     },
     {
       "id": "0ca7cf7e-e13e-4257-8bc9-a9cddaf3fe8c",
       "detail": "Work in partnership with others to help to keep individuals safe.",
-      "tags": []
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Adult care worker",
+          "reference": "ST0005",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0005-in-revision",
+          "versionNumber": "1.4",
+          "relatedKsbs": [
+            "S5"
+          ]
+        },
+        {
+          "title": "Healthcare support worker",
+          "reference": "ST0216",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0216-v1-1",
+          "versionNumber": "1.1",
+          "relatedKsbs": [
+            "S4"
+          ]
+        }
+      ]
     },
     {
       "id": "1a6809b2-57c5-4207-9e25-3128620a0a41",
       "detail": "Support individuals using person centred values.*",
-      "tags": []
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Adult care worker",
+          "reference": "ST0005",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0005-in-revision",
+          "versionNumber": "1.4",
+          "relatedKsbs": [
+            "S7"
+          ]
+        },
+        {
+          "title": "Healthcare support worker",
+          "reference": "ST0216",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0216-v1-1",
+          "versionNumber": "1.1",
+          "relatedKsbs": [
+            "S3"
+          ]
+        }
+      ]
     },
     {
       "id": "d06055ce-c25b-4426-81e2-eb5f21699920",
       "detail": "Adapt your approach when providing care and support to meet the needs of the individual.",
-      "tags": []
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Adult care worker",
+          "reference": "ST0005",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0005-in-revision",
+          "versionNumber": "1.4",
+          "relatedKsbs": [
+            "S11",
+            "S13"
+          ]
+        },
+        {
+          "title": "Healthcare support worker",
+          "reference": "ST0216",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0216-v1-1",
+          "versionNumber": "1.1",
+          "relatedKsbs": [
+            "S16"
+          ]
+        }
+      ]
     },
     {
       "id": "96957429-1ff2-4b49-a8ba-8b9f80700239",
       "detail": "Follow infection prevention and control precautions to protect yourself and others in the workplace.*",
-      "tags": []
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Healthcare support worker",
+          "reference": "ST0216",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0216-v1-1",
+          "versionNumber": "1.1",
+          "relatedKsbs": [
+            "S20"
+          ]
+        }
+      ]
     },
     {
       "id": "1207d578-9435-43cf-85ef-b237a7fe340f",
       "detail": "Use digital systems and technology in the workplace.*",
-      "tags": []
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Adult care worker",
+          "reference": "ST0005",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0005-in-revision",
+          "versionNumber": "1.4",
+          "relatedKsbs": [
+            "S17"
+          ]
+        },
+        {
+          "title": "Healthcare support worker",
+          "reference": "ST0216",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0216-v1-1",
+          "versionNumber": "1.1",
+          "relatedKsbs": [
+            "S18"
+          ]
+        }
+      ]
     },
     {
       "id": "1bbea7af-03d7-4bb0-b9b8-660caf4435d0",
       "detail": "Support individuals with positive lifestyle choices to promote health and wellbeing.*",
-      "tags": []
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Adult care worker",
+          "reference": "ST0005",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0005-in-revision",
+          "versionNumber": "1.4",
+          "relatedKsbs": [
+            "S9"
+          ]
+        },
+        {
+          "title": "Healthcare support worker",
+          "reference": "ST0216",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0216-v1-1",
+          "versionNumber": "1.1",
+          "relatedKsbs": [
+            "S17"
+          ]
+        }
+      ]
     },
     {
       "id": "bd14741f-a7d0-4a34-a22b-da189ae58957",
       "detail": "Apply basic food hygiene and preparation methods.*",
-      "tags": []
+      "tags": [],
+      "relatedApprenticeships": []
     },
     {
       "id": "cc1f6ae1-6664-4c2c-bedc-ea2b9f337144",
       "detail": "Develop personal resilience when working in a health or social care setting.",
-      "tags": []
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Adult care worker",
+          "reference": "ST0005",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0005-in-revision",
+          "versionNumber": "1.4",
+          "relatedKsbs": [
+            "S15"
+          ]
+        }
+      ]
     },
     {
       "id": "586fce5d-6c27-47f5-95fe-94d665bee19f",
       "detail": "Move and handle equipment or other items safely and assist individuals.",
-      "tags": []
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Healthcare support worker",
+          "reference": "ST0216",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0216-v1-1",
+          "versionNumber": "1.1",
+          "relatedKsbs": [
+            "S21"
+          ]
+        }
+      ]
     }
   ],
   "employabilitySkillsAndBehaviours": [
@@ -265,11 +600,13 @@
     {
       "name": "Adult care worker",
       "reference": "OCC0005",
+      "occupationalMapUrl": "https://occupational-maps.skillsengland.education.gov.uk/maps/occupation/OCC0005",
       "versionNumber": "1.4"
     },
     {
       "name": "Healthcare support worker",
       "reference": "OCC0216",
+      "occupationalMapUrl": "https://occupational-maps.skillsengland.education.gov.uk/maps/occupation/OCC0216",
       "versionNumber": "1.1"
     }
   ],
