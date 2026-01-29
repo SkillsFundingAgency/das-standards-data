@@ -6,12 +6,12 @@
   "larsCode": "808",
   "learningAimClassCode": "Z0001846",
   "foundationApprenticeshipUrl": "https://skillsengland.education.gov.uk/foundation-apprenticeships/FA0004",
-  "url": "https://skillsengland.education.gov.uk/api/foundationapprenticeships/FA0004",
   "route": "Digital",
   "relatedRoutes": [
     "Digital"
   ],
   "typicalDuration": 8,
+  "minimumHoursForCompliance": 0,
   "maxFunding": 4000,
   "level": 2,
   "overviewOfRole": "Hardware, network and infrastructure operatives are found in organisations large and small, in all sectors, and within public, private and voluntary organisations.",
@@ -153,139 +153,564 @@
     {
       "id": "950bf94e-d759-47a6-93cf-d19cf31b617d",
       "detail": "Health, safety and security including organisational policies and procedures.*",
-      "tags": []
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "IT solutions technician",
+          "reference": "ST0505",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0505-v1-1",
+          "versionNumber": "1.1",
+          "relatedKsbs": [
+            "K20"
+          ]
+        },
+        {
+          "title": "Digital device repair technician",
+          "reference": "ST0682",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0682-v1-0",
+          "versionNumber": "1.0",
+          "relatedKsbs": [
+            "K7"
+          ]
+        }
+      ]
     },
     {
       "id": "ca0d246d-9a25-462d-bd8e-08e3077f6185",
       "detail": "Digital systems, infrastructure, networks, software packages and programmes.",
-      "tags": []
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "IT solutions technician",
+          "reference": "ST0505",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0505-v1-1",
+          "versionNumber": "1.1",
+          "relatedKsbs": [
+            "K6"
+          ]
+        },
+        {
+          "title": "Digital support technician",
+          "reference": "ST0120",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0120-v1-1",
+          "versionNumber": "1.1",
+          "relatedKsbs": [
+            "K17"
+          ]
+        }
+      ]
     },
     {
       "id": "961b87f3-d6fc-41b6-8795-52cb01f28e52",
       "detail": " Roles and responsibilities of stakeholders.",
-      "tags": []
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Network cable installer",
+          "reference": "ST0485",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0485-v1-2",
+          "versionNumber": "1.2",
+          "relatedKsbs": [
+            "K10"
+          ]
+        },
+        {
+          "title": "Radio network technician",
+          "reference": "ST0757",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0757-v1-1",
+          "versionNumber": "1.1",
+          "relatedKsbs": [
+            "K23"
+          ]
+        }
+      ]
     },
     {
       "id": "8251fbca-9157-48ed-8ee8-7df4cc3e42d1",
       "detail": "Own role and responsibilities and how they help to achieve the needs of the organisation.",
-      "tags": []
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Network cable installer",
+          "reference": "ST0485",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0485-v1-2",
+          "versionNumber": "1.2",
+          "relatedKsbs": [
+            "K10"
+          ]
+        },
+        {
+          "title": "Radio network technician",
+          "reference": "ST0757",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0757-v1-1",
+          "versionNumber": "1.1",
+          "relatedKsbs": [
+            "K23"
+          ]
+        }
+      ]
     },
     {
       "id": "2089dec8-7010-4ed5-bd2b-0203c1cc222a",
       "detail": "Documentation and systems.*",
-      "tags": []
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Information communications technician",
+          "reference": "ST0973",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0973-v1-0",
+          "versionNumber": "1.2",
+          "relatedKsbs": [
+            "K2"
+          ]
+        }
+      ]
     },
     {
       "id": "9ad33fb9-b53d-4b03-b8f5-689602405604",
       "detail": "Essential cyber security compliance including phishing and scams.",
-      "tags": []
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "IT solutions technician",
+          "reference": "ST0505",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0505-v1-1",
+          "versionNumber": "1.1",
+          "relatedKsbs": [
+            "K19"
+          ]
+        },
+        {
+          "title": "Network cable installer",
+          "reference": "ST0485",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0485-v1-2",
+          "versionNumber": "1.2",
+          "relatedKsbs": [
+            "K18"
+          ]
+        }
+      ]
     },
     {
       "id": "896552e4-5fc5-4ab2-ba6f-12ff3a13ee53",
       "detail": "Function and operation of the stages within the solutions life cycle.",
-      "tags": []
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "IT solutions technician",
+          "reference": "ST0505",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0505-v1-1",
+          "versionNumber": "1.1",
+          "relatedKsbs": [
+            "K1",
+            "K13"
+          ]
+        }
+      ]
     },
     {
       "id": "f80dc054-292b-45ea-a3f7-b399ee465304",
       "detail": "User requirements, needs and priorities.",
-      "tags": []
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Radio network technician",
+          "reference": "ST0757",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0757-v1-1",
+          "versionNumber": "1.1",
+          "relatedKsbs": [
+            "K15"
+          ]
+        },
+        {
+          "title": "Digital device repair technician",
+          "reference": "ST0682",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0682-v1-0",
+          "versionNumber": "1.0",
+          "relatedKsbs": [
+            "K6"
+          ]
+        }
+      ]
     },
     {
       "id": "ef8953c7-bb27-4c28-8e34-cc6bd83f19a7",
       "detail": "Essential solution architecture and testing.*",
-      "tags": []
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "IT solutions technician",
+          "reference": "ST0505",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0505-v1-1",
+          "versionNumber": "1.1",
+          "relatedKsbs": [
+            "K4"
+          ]
+        },
+        {
+          "title": "Digital support technician",
+          "reference": "ST0120",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0120-v1-1",
+          "versionNumber": "1.1",
+          "relatedKsbs": [
+            "K2"
+          ]
+        }
+      ]
     },
     {
       "id": "ba078974-dff4-4e6f-93db-d73238c74a0a",
       "detail": "Emerging technologies, for example automation or AI in the sector and or occupation.",
-      "tags": []
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Digital support technician",
+          "reference": "ST0120",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0120-v1-1",
+          "versionNumber": "1.1",
+          "relatedKsbs": [
+            "K1"
+          ]
+        },
+        {
+          "title": "Radio network technician",
+          "reference": "ST0757",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0757-v1-1",
+          "versionNumber": "1.1",
+          "relatedKsbs": [
+            "K28"
+          ]
+        }
+      ]
     },
     {
       "id": "93d5437d-a021-448a-9a9a-dfdd8c715d3f",
       "detail": "The components of digital infrastructure and the relationship between devices.",
-      "tags": []
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Digital device repair technician",
+          "reference": "ST0682",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0682-v1-0",
+          "versionNumber": "1.0",
+          "relatedKsbs": [
+            "K22",
+            "K35"
+          ]
+        }
+      ]
     },
     {
       "id": "e99fd08f-4f36-4362-8cbf-a5c72653e2b7",
       "detail": "Technical fault diagnosis. Identify and confirm basic faults within the system.*",
-      "tags": []
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Information communications technician",
+          "reference": "ST0973",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0973-v1-0",
+          "versionNumber": "1.2",
+          "relatedKsbs": [
+            "K3"
+          ]
+        }
+      ]
     },
     {
       "id": "5301933b-b1ad-4008-8c9c-fa08f7514322",
       "detail": "Test parameters, standard requirements and common solutions.*",
-      "tags": []
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Network cable installer",
+          "reference": "ST0485",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0485-v1-2",
+          "versionNumber": "1.2",
+          "relatedKsbs": [
+            "K5"
+          ]
+        }
+      ]
     },
     {
       "id": "6466adf0-4ad5-4fa1-bb4b-a5f2d87102d6",
       "detail": "Different types of hardware, software, apps and or firmware.",
-      "tags": []
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "IT solutions technician",
+          "reference": "ST0505",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0505-v1-1",
+          "versionNumber": "1.1",
+          "relatedKsbs": [
+            "K9"
+          ]
+        },
+        {
+          "title": "Digital device repair technician",
+          "reference": "ST0682",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0682-v1-0",
+          "versionNumber": "1.0",
+          "relatedKsbs": [
+            "K24"
+          ]
+        }
+      ]
     },
     {
       "id": "a1ffb591-d601-4c55-9a3a-ab7262438fbc",
       "detail": "IT security vulnerabilities.*",
-      "tags": []
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Cyber security technician",
+          "reference": "ST0865",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0865-v1-0",
+          "versionNumber": "1.0",
+          "relatedKsbs": [
+            "K14"
+          ]
+        },
+        {
+          "title": "Radio network technician",
+          "reference": "ST0757",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0757-v1-1",
+          "versionNumber": "1.1",
+          "relatedKsbs": [
+            "K19"
+          ]
+        }
+      ]
     }
   ],
   "technicalSkills": [
     {
       "id": "df864814-d4ab-407e-9774-4a97db7a5a82",
       "detail": "Comply with health and safety and security requirements.*",
-      "tags": []
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Digital device repair technician",
+          "reference": "ST0682",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0682-v1-0",
+          "versionNumber": "1.0",
+          "relatedKsbs": [
+            "S5"
+          ]
+        }
+      ]
     },
     {
       "id": "70b1bb9c-0b2a-4a46-b3b2-2c883de234f6",
       "detail": "Use of infrastructure, networks, software, packages or programmes.*",
-      "tags": []
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Information communications technician",
+          "reference": "ST0973",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0973-v1-0",
+          "versionNumber": "1.2",
+          "relatedKsbs": [
+            "S9",
+            "S20"
+          ]
+        }
+      ]
     },
     {
       "id": "14b219a0-c1e9-4027-a7f5-c5a24c2e799b",
       "detail": "Apply knowledge to resolve issues and support users knowing when and who to escalate to.*",
-      "tags": []
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Information communications technician",
+          "reference": "ST0973",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0973-v1-0",
+          "versionNumber": "1.2",
+          "relatedKsbs": [
+            "S8"
+          ]
+        },
+        {
+          "title": "Radio network technician",
+          "reference": "ST0757",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0757-v1-1",
+          "versionNumber": "1.1",
+          "relatedKsbs": [
+            "S11"
+          ]
+        }
+      ]
     },
     {
       "id": "a8cd31ce-5ce0-4047-ad80-a4c32a918e3a",
       "detail": "Test performance and usability.*",
-      "tags": []
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "IT solutions technician",
+          "reference": "ST0505",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0505-v1-1",
+          "versionNumber": "1.1",
+          "relatedKsbs": [
+            "S9"
+          ]
+        },
+        {
+          "title": "Digital support technician",
+          "reference": "ST0120",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0120-v1-1",
+          "versionNumber": "1.1",
+          "relatedKsbs": [
+            "S9"
+          ]
+        }
+      ]
     },
     {
       "id": "55de21ae-c295-4344-89a3-db6bae5dbf05",
       "detail": "Apply sustainability practices in their role.",
-      "tags": []
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Digital device repair technician",
+          "reference": "ST0682",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0682-v1-0",
+          "versionNumber": "1.0",
+          "relatedKsbs": [
+            "S9"
+          ]
+        }
+      ]
     },
     {
       "id": "476ac704-55ce-4174-be11-0d1516c88905",
       "detail": "Maintain documentation and systems following organisational process and procedures.*",
-      "tags": []
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "IT solutions technician",
+          "reference": "ST0505",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0505-v1-1",
+          "versionNumber": "1.1",
+          "relatedKsbs": [
+            "S11"
+          ]
+        },
+        {
+          "title": "Information communications technician",
+          "reference": "ST0973",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0973-v1-0",
+          "versionNumber": "1.2",
+          "relatedKsbs": [
+            "S8"
+          ]
+        }
+      ]
     },
     {
       "id": "b02d6e30-57cb-4c15-9d39-be7ed67c116e",
       "detail": "Use digital technologies to support daily work activities.*",
-      "tags": []
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Digital support technician",
+          "reference": "ST0120",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0120-v1-1",
+          "versionNumber": "1.1",
+          "relatedKsbs": [
+            "S1"
+          ]
+        }
+      ]
     },
     {
       "id": "daedac20-14e1-4870-a836-6b83ee8c1b7a",
       "detail": "Safe and ethical use of emerging technologies.",
-      "tags": []
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Information communications technician",
+          "reference": "ST0973",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0973-v1-0",
+          "versionNumber": "1.2",
+          "relatedKsbs": [
+            "S4"
+          ]
+        }
+      ]
     },
     {
       "id": "9a64d133-d3b4-43b9-b629-94a888929f86",
       "detail": "Install equipment and components.*",
-      "tags": []
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "IT solutions technician",
+          "reference": "ST0505",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0505-v1-1",
+          "versionNumber": "1.1",
+          "relatedKsbs": [
+            "S7"
+          ]
+        },
+        {
+          "title": "Network cable installer",
+          "reference": "ST0485",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0485-v1-2",
+          "versionNumber": "1.2",
+          "relatedKsbs": [
+            "S1"
+          ]
+        }
+      ]
     },
     {
       "id": "230265e7-13b9-4a4c-a500-8365bf8ef0dd",
       "detail": "Carry out routine maintenance and repair common faults.*",
-      "tags": []
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Network cable installer",
+          "reference": "ST0485",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0485-v1-2",
+          "versionNumber": "1.2",
+          "relatedKsbs": [
+            "S1"
+          ]
+        },
+        {
+          "title": "Radio network technician",
+          "reference": "ST0757",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0757-v1-1",
+          "versionNumber": "1.1",
+          "relatedKsbs": [
+            "S11"
+          ]
+        }
+      ]
     },
     {
       "id": "6b6b8e74-23dc-4837-96ba-0167b43e6670",
       "detail": "Remove hardware following organisations processes.*",
-      "tags": []
+      "tags": [],
+      "relatedApprenticeships": []
     },
     {
       "id": "9f26cca8-7225-4c51-8f02-66bee5888efd",
       "detail": "Install software, apps or firmware to user requirements.*",
-      "tags": []
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Information communications technician",
+          "reference": "ST0973",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0973-v1-0",
+          "versionNumber": "1.2",
+          "relatedKsbs": [
+            "S9"
+          ]
+        }
+      ]
     }
   ],
   "employabilitySkillsAndBehaviours": [
@@ -335,51 +760,61 @@
     {
       "name": "IT solutions technician",
       "reference": "OCC0505",
+      "occupationalMapUrl": "https://occupational-maps.skillsengland.education.gov.uk/maps/occupation/OCC0505",
       "versionNumber": "1.1"
     },
     {
       "name": "Digital support technician - Digital Applications Technician (DAT) ",
       "reference": "OCC0120A",
+      "occupationalMapUrl": "https://occupational-maps.skillsengland.education.gov.uk/maps/occupation/OCC0120A",
       "versionNumber": "1.1"
     },
     {
       "name": "Digital support technician - Digital Service Technician (DST) ",
       "reference": "OCC0120B",
+      "occupationalMapUrl": "https://occupational-maps.skillsengland.education.gov.uk/maps/occupation/OCC0120B",
       "versionNumber": "1.1"
     },
     {
       "name": "Cyber security technician",
       "reference": "OCC0865",
+      "occupationalMapUrl": "https://occupational-maps.skillsengland.education.gov.uk/maps/occupation/OCC0865",
       "versionNumber": "1.0"
     },
     {
       "name": "Information communications technician - Digital Communications Technician",
       "reference": "OCC0973A",
+      "occupationalMapUrl": "https://occupational-maps.skillsengland.education.gov.uk/maps/occupation/OCC0973A",
       "versionNumber": "1.2"
     },
     {
       "name": "Information communications technician - Network Technician",
       "reference": "OCC0973B",
+      "occupationalMapUrl": "https://occupational-maps.skillsengland.education.gov.uk/maps/occupation/OCC0973B",
       "versionNumber": "1.2"
     },
     {
       "name": "Information communications technician - Support Technician",
       "reference": "OCC0973C",
+      "occupationalMapUrl": "https://occupational-maps.skillsengland.education.gov.uk/maps/occupation/OCC0973C",
       "versionNumber": "1.2"
     },
     {
       "name": "Network cable installer",
       "reference": "OCC0485",
+      "occupationalMapUrl": "https://occupational-maps.skillsengland.education.gov.uk/maps/occupation/OCC0485",
       "versionNumber": "1.2"
     },
     {
       "name": "Radio network technician",
       "reference": "OCC0757",
+      "occupationalMapUrl": "https://occupational-maps.skillsengland.education.gov.uk/maps/occupation/OCC0757",
       "versionNumber": "1.1"
     },
     {
       "name": "Digital device repair technician",
       "reference": "OCC0682",
+      "occupationalMapUrl": "https://occupational-maps.skillsengland.education.gov.uk/maps/occupation/OCC0682",
       "versionNumber": "1.0"
     }
   ],
