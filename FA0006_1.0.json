@@ -11,7 +11,7 @@
     "Engineering and manufacturing"
   ],
   "typicalDuration": 8,
-  "minimumHoursForCompliance": 0,
+  "minimumHoursForCompliance": 187,
   "maxFunding": 4500,
   "level": 2,
   "overviewOfRole": "General engineering and manufacturing operatives are found in environments supporting, for example, production, maintenance, assembly of components and systems, machining operations, fabrication and welding and additive manufacturing functions.",
@@ -21,7 +21,7 @@
   "version": "1.0",
   "versionNumber": "1.0",
   "createdDate": "2025-06-30T09:26:40 +00:00",
-  "lastUpdated": "2025-11-26T11:26:16 +00:00",
+  "lastUpdated": "2026-02-16T06:15:00 +00:00",
   "publishDate": "2025-08-01T00:00:00 +00:00",
   "approvedForDelivery": "2025-04-29T00:00:00 +00:00",
   "earliestStartDate": "2025-08-01T00:00:00 +00:00",
