@@ -1,17 +1,17 @@
 {
   "templateType": "Structured Apprenticeship Standard",
   "shortAssessment": false,
-  "larsCode": 0,
+  "larsCode": 834,
   "referenceNumber": "ST1516",
   "learningAimClassCode": "",
   "title": "Junior journalist",
   "status": "Approved for delivery",
-  "approvedForDeliveryPausedStarts": true,
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST1516",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2026-04-14T00:00:00",
+  "changedDate": "2026-05-22T00:00:00",
   "earliestStartDate": "2026-04-14T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
@@ -262,7 +262,7 @@
   "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
-    "providerName": "Ofqual is the intended EQA provider",
+    "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
     "contactEmail": "",
@@ -296,10 +296,10 @@
   "clusterId": "42",
   "clusterDescription": "Production and distribution of media content using communications, archive and visual technology",
   "createdDate": "2026-04-01T12:50:37 +00:00",
-  "lastUpdated": "2026-04-14T00:00:00 +00:00",
+  "lastUpdated": "2026-05-22T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2026-04-14T00:00:00 +00:00",
-  "banners": "This apprenticeship standard was approved for delivery by Skills England. However, starts on the apprenticeship will only be possible once a suitable assessment organisation is in place. Once an assessment organisation is in place, funding for apprentice starts will be permitted and this message will be removed.",
-  "occupationCode": "",
+  "banners": "",
+  "occupationCode": "OCC1516",
   "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st1516-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st1516-v1-0",
   "qualifications": [
@@ -668,5 +668,5 @@
   ],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2026-04-14T00:00:00"
+  "publishDate": "2026-05-22T00:00:00"
 }
