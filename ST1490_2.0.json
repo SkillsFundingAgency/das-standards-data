@@ -1,7 +1,7 @@
 {
   "templateType": "Occupational Standard",
   "shortAssessment": true,
-  "larsCode": 0,
+  "larsCode": 833,
   "referenceNumber": "ST1490",
   "learningAimClassCode": "",
   "title": "Journalist",
@@ -11,7 +11,7 @@
   "qualificationStandardUrl": null,
   "versionNumber": "2.0",
   "change": "Approved for delivery",
-  "changedDate": "2026-04-14T00:00:00",
+  "changedDate": "2026-05-22T00:00:00",
   "earliestStartDate": "2026-04-14T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
@@ -293,8 +293,8 @@
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2026-04-14T00:00:00 +00:00",
-  "integratedApprenticeship": null,
-  "integration": null,
+  "integratedApprenticeship": true,
+  "integration": "Mandatory qualification only",
   "integratedDegree": "non-degree qualification",
   "tbReference": "TB0395",
   "tbMainContact": "andy.cairns@sky.uk",
@@ -324,10 +324,10 @@
   "clusterId": "76",
   "clusterDescription": "Design, development and editing of audio visual and text content using technology to generate broadcasting materials along with its co-ordination and management",
   "createdDate": "2026-04-01T12:42:07 +00:00",
-  "lastUpdated": "2026-04-14T00:00:00 +00:00",
+  "lastUpdated": "2026-05-22T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2026-04-14T00:00:00 +00:00",
   "banners": "",
-  "occupationCode": "",
+  "occupationCode": "OCC1490",
   "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st1490-v2-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st1490-v2-0",
   "qualifications": [
@@ -335,7 +335,7 @@
       "qualificationId": "8e8efff0-b69b-4ec6-9a11-d9f2598ab828",
       "title": "NCTJ Level 6 National Qualification in Journalism",
       "level": "6 (non-degree qualification)",
-      "anyAdditionalInformation": "",
+      "anyAdditionalInformation": "Please refer to the Awarding Organisation to confirm if English and maths is an essential component of any mandatory qualification.",
       "qualificationEpaIntegration": "",
       "mappedOptions": []
     }
@@ -548,5 +548,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2026-04-14T00:00:00"
+  "publishDate": "2026-05-22T00:00:00"
 }
