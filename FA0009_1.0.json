@@ -19,7 +19,7 @@
   "version": "1.0",
   "versionNumber": "1.0",
   "createdDate": "2026-03-18T11:00:45 +00:00",
-  "lastUpdated": "2026-06-09T09:15:44 +00:00",
+  "lastUpdated": "2026-06-10T09:23:43 +00:00",
   "publishDate": "2026-04-22T00:00:00 +00:00",
   "approvedForDelivery": "2026-04-14T00:00:00 +00:00",
   "earliestStartDate": "2026-04-22T00:00:00 +00:00",
@@ -255,5 +255,5 @@
   ],
   "informationForProviders": "<div>This Foundation Apprenticeship is mapped to the following standards:<br><br></div>\n<ul>\n<li>Level 2 Retailer V 1.2 (ST0327) OCC0327&nbsp;</li>\n<li>Level 2 Trade Supplier V1.0 (ST0334) OCC034</li>\n<li>Level 3 Business Administrator V1.1 (ST0070) OCC0070</li>\n<li>Level 2 Customer Service Practitioner V1.2 (ST0072) OCC0072</li>\n</ul>\n<div>Upon the publication of all the mapped standards, we will provide mapping information outlining which knowledge and skills in this Foundation Apprenticeship are mapped to the relevant content in the standards listed above.</div>",
   "relatedOccupations": [],
-  "banners": "This foundation apprenticeship is approved for starts if you have secured an approved Assessment Organisation (AO) to deliver the assessment. Any AO who has the OFQUAL relevant SSA at tier 2 for apprenticeship assessment is able to deliver assessment for this foundation apprenticeship."
+  "banners": ""
 }
