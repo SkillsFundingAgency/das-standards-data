@@ -21,7 +21,7 @@
   "version": "1.0",
   "versionNumber": "1.0",
   "createdDate": "2025-07-30T16:06:07 +00:00",
-  "lastUpdated": "2026-06-09T09:16:03 +00:00",
+  "lastUpdated": "2026-06-10T09:22:47 +00:00",
   "publishDate": "2026-04-01T00:00:00 +00:00",
   "approvedForDelivery": "2026-04-01T00:00:00 +00:00",
   "earliestStartDate": "2026-04-01T00:00:00 +00:00",
@@ -642,5 +642,5 @@
       "versionNumber": "1.0"
     }
   ],
-  "banners": "This foundation apprenticeship is approved for starts if you have secured an approved Assessment Organisation (AO) to deliver the assessment. Any AO who has the OFQUAL relevant SSA at tier 2 for apprenticeship assessment is able to deliver assessment for this foundation apprenticeship."
+  "banners": ""
 }
