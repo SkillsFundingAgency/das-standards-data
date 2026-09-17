@@ -862,21 +862,27 @@
       "versionNumber": "1.2"
     },
     {
-      "name": "Plasterer - fibrous Plasterer",
-      "reference": "OCC0096A",
-      "occupationalMapUrl": "https://occupational-maps.skillsengland.education.gov.uk/maps/occupation/OCC0096A",
-      "versionNumber": "2.1"
-    },
-    {
-      "name": "Plasterer - solid Plasterer",
+      "name": "Plasterer - Solid plasterer",
       "reference": "OCC0096B",
       "occupationalMapUrl": "https://occupational-maps.skillsengland.education.gov.uk/maps/occupation/OCC0096B",
-      "versionNumber": "2.1"
+      "versionNumber": "2.2"
+    },
+    {
+      "name": "Plasterer - Fibrous plasterer",
+      "reference": "OCC0096A",
+      "occupationalMapUrl": "https://occupational-maps.skillsengland.education.gov.uk/maps/occupation/OCC0096A",
+      "versionNumber": "2.2"
     },
     {
       "name": "Carpentry and joinery - Site Carpenter",
       "reference": "OCC0264B",
       "occupationalMapUrl": "https://occupational-maps.skillsengland.education.gov.uk/maps/occupation/OCC0264B",
+      "versionNumber": "1.4"
+    },
+    {
+      "name": "Carpentry and joinery - Architectural Joiner",
+      "reference": "OCC0264A",
+      "occupationalMapUrl": "https://occupational-maps.skillsengland.education.gov.uk/maps/occupation/OCC0264A",
       "versionNumber": "1.4"
     }
   ],
