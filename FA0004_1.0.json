@@ -779,12 +779,12 @@
       "name": "Cyber security technician",
       "reference": "OCC0865",
       "occupationalMapUrl": "https://occupational-maps.skillsengland.education.gov.uk/maps/occupation/OCC0865",
-      "versionNumber": "1.0"
+      "versionNumber": "1.1"
     },
     {
-      "name": "Information communications technician - Digital Communications Technician",
-      "reference": "OCC0973A",
-      "occupationalMapUrl": "https://occupational-maps.skillsengland.education.gov.uk/maps/occupation/OCC0973A",
+      "name": "Information communications technician - Support Technician",
+      "reference": "OCC0973C",
+      "occupationalMapUrl": "https://occupational-maps.skillsengland.education.gov.uk/maps/occupation/OCC0973C",
       "versionNumber": "1.2"
     },
     {
@@ -794,9 +794,9 @@
       "versionNumber": "1.2"
     },
     {
-      "name": "Information communications technician - Support Technician",
-      "reference": "OCC0973C",
-      "occupationalMapUrl": "https://occupational-maps.skillsengland.education.gov.uk/maps/occupation/OCC0973C",
+      "name": "Information communications technician - Digital Communications Technician",
+      "reference": "OCC0973A",
+      "occupationalMapUrl": "https://occupational-maps.skillsengland.education.gov.uk/maps/occupation/OCC0973A",
       "versionNumber": "1.2"
     },
     {
@@ -809,13 +809,13 @@
       "name": "Radio network technician",
       "reference": "OCC0757",
       "occupationalMapUrl": "https://occupational-maps.skillsengland.education.gov.uk/maps/occupation/OCC0757",
-      "versionNumber": "1.1"
+      "versionNumber": "1.2"
     },
     {
       "name": "Digital device repair technician",
       "reference": "OCC0682",
       "occupationalMapUrl": "https://occupational-maps.skillsengland.education.gov.uk/maps/occupation/OCC0682",
-      "versionNumber": "1.0"
+      "versionNumber": "1.1"
     }
   ],
   "banners": ""
