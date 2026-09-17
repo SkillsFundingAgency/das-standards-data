@@ -900,16 +900,10 @@
       "versionNumber": "1.4"
     },
     {
-      "name": "Floorlayer - textile and resilient floorcoverings",
-      "reference": "OCC0504A",
-      "occupationalMapUrl": "https://occupational-maps.skillsengland.education.gov.uk/maps/occupation/OCC0504A",
-      "versionNumber": "1.2"
-    },
-    {
-      "name": "Floorlayer - wood- based floorcoverings",
-      "reference": "OCC0504B",
-      "occupationalMapUrl": "https://occupational-maps.skillsengland.education.gov.uk/maps/occupation/OCC0504B",
-      "versionNumber": "1.2"
+      "name": "Floorlayer - textile and resilient",
+      "reference": "OCC0504",
+      "occupationalMapUrl": "https://occupational-maps.skillsengland.education.gov.uk/maps/occupation/OCC0504",
+      "versionNumber": "1.4"
     }
   ],
   "banners": ""
