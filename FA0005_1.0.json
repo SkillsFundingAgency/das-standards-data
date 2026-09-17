@@ -702,7 +702,7 @@
       "name": "Data technician",
       "reference": "OCC0795",
       "occupationalMapUrl": "https://occupational-maps.skillsengland.education.gov.uk/maps/occupation/OCC0795",
-      "versionNumber": "1.0"
+      "versionNumber": "1.1"
     },
     {
       "name": "Software development technician",
@@ -732,12 +732,12 @@
       "name": "Cyber security technician",
       "reference": "OCC0865",
       "occupationalMapUrl": "https://occupational-maps.skillsengland.education.gov.uk/maps/occupation/OCC0865",
-      "versionNumber": "1.0"
+      "versionNumber": "1.1"
     },
     {
-      "name": "Information communications technician - Digital Communications Technician",
-      "reference": "OCC0973A",
-      "occupationalMapUrl": "https://occupational-maps.skillsengland.education.gov.uk/maps/occupation/OCC0973A",
+      "name": "Information communications technician - Support Technician",
+      "reference": "OCC0973C",
+      "occupationalMapUrl": "https://occupational-maps.skillsengland.education.gov.uk/maps/occupation/OCC0973C",
       "versionNumber": "1.2"
     },
     {
@@ -747,9 +747,9 @@
       "versionNumber": "1.2"
     },
     {
-      "name": "Information communications technician - Support Technician",
-      "reference": "OCC0973C",
-      "occupationalMapUrl": "https://occupational-maps.skillsengland.education.gov.uk/maps/occupation/OCC0973C",
+      "name": "Information communications technician - Digital Communications Technician",
+      "reference": "OCC0973A",
+      "occupationalMapUrl": "https://occupational-maps.skillsengland.education.gov.uk/maps/occupation/OCC0973A",
       "versionNumber": "1.2"
     }
   ],
