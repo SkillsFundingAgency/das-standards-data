@@ -430,28 +430,40 @@
   "informationForProviders": "<p>Coverage of each knowledge and skill statement must include each and every occupation it is mapped to, unless expressly stated otherwise. For instance, if skill S1 is mapped to occupation 1 and occupation 2, then the range of coverage must include elements of both 1 and 2 so the apprentice benefits from a broad experience. Competence is to the level described by this Foundation Apprenticeship’s knowledge and skills and not the often higher level of the mapped occupations. Coverage will be a blend of on and off the job learning. Please refer to the <a href=\"/media/uu5lupdz/engineering-and-manufacturing-foundation-apprenticeship_knowledge-and-skills-coverage-document.pdf\" title=\"Engineering And Manufacturing Foundation Apprenticeship Knowledge And Skills Coverage Document\">Knowledge and skills coverage document</a>.</p>",
   "relatedOccupations": [
     {
-      "name": "Engineering operative - Engineering Operatives Working Within an Electrical & Electronic Engineering Role",
-      "reference": "OCC0537F",
-      "occupationalMapUrl": "https://occupational-maps.skillsengland.education.gov.uk/maps/occupation/OCC0537F",
-      "versionNumber": "1.3"
-    },
-    {
-      "name": "Engineering operative - Engineering Operatives Working Within a Fabrication Role",
-      "reference": "OCC0537A",
-      "occupationalMapUrl": "https://occupational-maps.skillsengland.education.gov.uk/maps/occupation/OCC0537A",
-      "versionNumber": "1.3"
+      "name": "Engineering operative - Engineering Operatives Working Within a Maintenance Role",
+      "reference": "OCC0537B",
+      "occupationalMapUrl": "https://occupational-maps.skillsengland.education.gov.uk/maps/occupation/OCC0537B",
+      "versionNumber": "1.5"
     },
     {
       "name": "Engineering operative - Engineering Operatives Working Within a Mechanical Manufacturing Engineering Role",
       "reference": "OCC0537D",
       "occupationalMapUrl": "https://occupational-maps.skillsengland.education.gov.uk/maps/occupation/OCC0537D",
-      "versionNumber": "1.3"
+      "versionNumber": "1.5"
     },
     {
-      "name": "Engineering operative - Engineering Operatives Working Within a Maintenance Role",
-      "reference": "OCC0537B",
-      "occupationalMapUrl": "https://occupational-maps.skillsengland.education.gov.uk/maps/occupation/OCC0537B",
-      "versionNumber": "1.3"
+      "name": "Engineering operative - Engineering Operatives Working Within an Electrical & Electronic Engineering Role",
+      "reference": "OCC0537F",
+      "occupationalMapUrl": "https://occupational-maps.skillsengland.education.gov.uk/maps/occupation/OCC0537F",
+      "versionNumber": "1.5"
+    },
+    {
+      "name": "Engineering operative - Engineering Operatives Working Within a Fabrication Role",
+      "reference": "OCC0537A",
+      "occupationalMapUrl": "https://occupational-maps.skillsengland.education.gov.uk/maps/occupation/OCC0537A",
+      "versionNumber": "1.5"
+    },
+    {
+      "name": "Engineering operative - Engineering Operatives Working Within a Materials, Processing or Finishing Role",
+      "reference": "OCC0537C",
+      "occupationalMapUrl": "https://occupational-maps.skillsengland.education.gov.uk/maps/occupation/OCC0537C",
+      "versionNumber": "1.5"
+    },
+    {
+      "name": "Engineering operative - Engineering Operatives Working Within a Technical Support Role",
+      "reference": "OCC0537E",
+      "occupationalMapUrl": "https://occupational-maps.skillsengland.education.gov.uk/maps/occupation/OCC0537E",
+      "versionNumber": "1.5"
     }
   ],
   "banners": ""
