@@ -652,31 +652,31 @@
       "name": "Low carbon heating technician",
       "reference": "OCC1020",
       "occupationalMapUrl": "https://occupational-maps.skillsengland.education.gov.uk/maps/occupation/OCC1020",
-      "versionNumber": "1.1"
+      "versionNumber": "1.2"
     },
     {
       "name": "Refrigeration air conditioning and heat pump engineering technician",
       "reference": "OCC0322",
       "occupationalMapUrl": "https://occupational-maps.skillsengland.education.gov.uk/maps/occupation/OCC0322",
+      "versionNumber": "1.3"
+    },
+    {
+      "name": "Plumbing and domestic heating technician - Domestic gas fired hot water heating appliances technician",
+      "reference": "OCC0303F",
+      "occupationalMapUrl": "https://occupational-maps.skillsengland.education.gov.uk/maps/occupation/OCC0303F",
+      "versionNumber": "1.2"
+    },
+    {
+      "name": "Plumbing and domestic heating technician - Domestic air source heat pumps & solar thermal systems technician",
+      "reference": "OCC0303E",
+      "occupationalMapUrl": "https://occupational-maps.skillsengland.education.gov.uk/maps/occupation/OCC0303E",
       "versionNumber": "1.2"
     },
     {
       "name": "Plumbing and domestic heating technician - Non-domestic plumbing technician",
       "reference": "OCC0303G",
       "occupationalMapUrl": "https://occupational-maps.skillsengland.education.gov.uk/maps/occupation/OCC0303G",
-      "versionNumber": "1.1"
-    },
-    {
-      "name": "Plumbing and domestic heating technician - Domestic air source heat pumps & solar thermal systems technician",
-      "reference": "OCC0303E",
-      "occupationalMapUrl": "https://occupational-maps.skillsengland.education.gov.uk/maps/occupation/OCC0303E",
-      "versionNumber": "1.1"
-    },
-    {
-      "name": "Plumbing and domestic heating technician - Domestic gas fired hot water heating appliances technician",
-      "reference": "OCC0303F",
-      "occupationalMapUrl": "https://occupational-maps.skillsengland.education.gov.uk/maps/occupation/OCC0303F",
-      "versionNumber": "1.1"
+      "versionNumber": "1.2"
     }
   ],
   "banners": ""
