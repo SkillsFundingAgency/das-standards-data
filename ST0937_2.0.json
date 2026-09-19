@@ -11,8 +11,8 @@
   "qualificationStandardUrl": null,
   "versionNumber": "",
   "change": "Assessment plan revised",
-  "changedDate": "2026-09-04T00:00:00",
-  "earliestStartDate": "2027-02-25T00:00:00",
+  "changedDate": "2026-09-18T00:00:00",
+  "earliestStartDate": "2027-03-22T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Support the operation of a farm.",
@@ -277,7 +277,7 @@
   "clusterId": "143",
   "clusterDescription": "Undertake largely routine arable and livestock tasks with some specialisation in either area",
   "createdDate": "2026-09-04T08:43:17 +00:00",
-  "lastUpdated": "2026-09-04T00:00:00 +00:00",
+  "lastUpdated": "2026-09-18T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2021-05-17T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0937",
@@ -731,5 +731,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2027-02-25T00:00:00"
+  "publishDate": "2027-03-22T00:00:00"
 }
