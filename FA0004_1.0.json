@@ -764,16 +764,10 @@
       "versionNumber": "1.1"
     },
     {
-      "name": "Digital support technician - Digital Applications Technician (DAT) ",
-      "reference": "OCC0120A",
-      "occupationalMapUrl": "https://occupational-maps.skillsengland.education.gov.uk/maps/occupation/OCC0120A",
-      "versionNumber": "1.1"
-    },
-    {
-      "name": "Digital support technician - Digital Service Technician (DST) ",
-      "reference": "OCC0120B",
-      "occupationalMapUrl": "https://occupational-maps.skillsengland.education.gov.uk/maps/occupation/OCC0120B",
-      "versionNumber": "1.1"
+      "name": "Digital support technician",
+      "reference": "OCC0120",
+      "occupationalMapUrl": "https://occupational-maps.skillsengland.education.gov.uk/maps/occupation/OCC0120",
+      "versionNumber": "2.0"
     },
     {
       "name": "Cyber security technician",
